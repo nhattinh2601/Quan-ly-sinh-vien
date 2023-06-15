@@ -1,0 +1,449 @@
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.Edit.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.mainform.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.NewEdit.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.Edit.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.mainform.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.NewEdit.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\08\folder copy lại để làm tiếp - Copy\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.ManagerCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.PrintCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.ResolveComReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.AddScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.deleteScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.Chart.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.RemoveScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.ResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.StaticsResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\09\ManagerStudent\login\obj\Debug\login.ManagerScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.ResolveComReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.AddScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.Chart.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.deleteScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.ManagerCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.PrintCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.ManagerScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.RemoveScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.ResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.StaticsResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\10\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.ResolveComReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.AddScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.Chart.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.deleteScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.ManagerCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.PrintCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.ManagerScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.RemoveScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.ResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.StaticsResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\11\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.ResolveComReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.NewUserForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.AddScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.Chart.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.deleteScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.ManagerCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.PrintCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.ManagerScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.RemoveScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.ResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.StaticsResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.FormContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.AddNewContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.EditContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.SelectContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\12\ManagerStudent\login\obj\Debug\login.ShowFullList.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.ResolveComReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.AddNewContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.EditContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.FormContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.NewUserForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.AddScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.SelectContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.ShowFullList.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.Chart.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.deleteScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.ManagerCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.PrintCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.ManagerScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.RemoveScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.ResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.StaticsResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.AddGroupForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.SelectContact01.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.EditRemoveStudent.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\13\ManagerStudent\login\obj\Debug\login.AvarageScoreByCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.ResolveComReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.AvarageScoreByCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.EditRemoveStudent.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.FortgotPassword.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.AddGroupForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.AddNewContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.EditContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.FormContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.SelectContact01.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.NewUserForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.AddScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.SelectContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.ShowFullList.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.Chart.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.deleteScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.ManagerCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.PrintCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.ManagerScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.RemoveScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.ResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.StaticsResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\14\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Aspose.Words.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Aspose.Words.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.ResolveComReference.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AvarageScoreByCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.EditRemoveStudent.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.FortgotPassword.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddGroupForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddNewContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.EditContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.FormContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.SelectContact01.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.NewUserForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.SelectContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ShowFullList.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.Chart.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.deleteScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ManagerCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.PrintCourse.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ManagerScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.RemoveScore.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.StaticsResultForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.pdb
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ShowProfileContact.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.RegisterCourseForm.resources
+C:\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ListGroup.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\login.exe.config
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\login.exe
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\login.pdb
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Aspose.Words.dll
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.dll
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Aspose.Words.xml
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\bin\Debug\Sitecore.FakeDb.xml
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.AssemblyReference.cache
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.ResolveComReference.cache
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ListGroup.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AvarageScoreByCourse.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.EditRemoveStudent.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.FortgotPassword.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddGroupForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddNewContact.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.EditContact.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.FormContact.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.RegisterCourseForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.SelectContact01.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ShowProfileContact.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.NewUserForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddScore.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.SelectContact.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ShowFullList.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.Chart.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.deleteScore.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.FormMain.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.editCourse.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.formSearch.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddCourse.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.AddStudentForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.fLogin_02.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ManageStudentForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ProgressForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.RemoveCourseForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.PrintStudentForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ManagerCourseForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.PrintCourse.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ManagerScore.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.Properties.Resources.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.Register.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.StaticsForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.studentListForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.UpdateDeleteStudentForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.RemoveScore.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.ResultForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.StaticsResultForm.resources
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.GenerateResource.cache
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CoreCompileInputs.cache
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\ManagerStudent.csproj.CopyComplete
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.exe
+C:\Thư viện\Thư viện\HK2-Nam2\Lập trình trên Windows\15\ManagerStudent\login\obj\Debug\login.pdb
